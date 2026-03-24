@@ -46,7 +46,82 @@ The project follows a structured, end-to-end data analytics pipeline:
 - Implemented using [get_vendor_summary.py](scripts/get_vendor_summary.py)
 
 ### 4. Data Analysis & Visualization
-![Summary Statistics](assets/summary_stats.png)
+![Summary Statistics](assets/summary_statistics.png)
+## 📊 Key Insights
+
+### 🔴 1. Negative Profit & Loss Cases
+- Gross Profit shows negative values (minimum: -52,002.78), indicating some products are sold at a loss  
+- This may be due to heavy discounts or high purchase costs  
+- Profit Margin shows extreme negative values when sales revenue is zero or very low  
+
+👉 Business Impact:  
+Loss-making products need pricing correction or cost optimization  
+
+---
+
+### 📦 2. Unsold & Slow-Moving Inventory
+- Some products have zero sales despite being purchased  
+- Indicates unsold or slow-moving inventory  
+
+👉 Business Impact:  
+Leads to higher holding costs and inefficient inventory management  
+
+---
+
+### 📊 3. Outliers in Pricing
+- Purchase Price and Actual Price show extreme maximum values compared to the average  
+- Suggests presence of premium or high-value products  
+
+👉 Business Impact:  
+Requires segmentation strategy (premium vs regular products)  
+
+---
+
+### 🚚 4. Freight Cost Variability
+- Freight cost varies significantly (from 0.09 to 257,032.07)  
+- Indicates inconsistent logistics or bulk shipments  
+
+👉 Business Impact:  
+Opportunity to optimize shipping and reduce logistics costs  
+
+---
+
+### 🔄 5. Stock Turnover Insights
+- Stock turnover ranges from 0 to 274.5  
+- Some products sell very fast, while others remain unsold  
+
+👉 Business Impact:  
+Need better demand forecasting and inventory planning  
+
+---
+
+### ⚠️ 6. Data Filtering Decisions
+- Removed:
+  - Negative profit transactions  
+  - Profit margin ≤ 0  
+  - Zero sales records  
+
+👉 Business Impact:  
+Improved reliability and focus on meaningful analysis  
+
+![Correlation](assets/correlation_heatmap.png)
+### 📊 6. Correlation Insights
+
+- **Purchase Price vs Sales & Profit**
+  - Weak correlation (-0.012, -0.016)  
+  👉 Price changes do not significantly impact sales revenue or profit  
+
+- **Total Purchase Quantity vs Total Sales Quantity**
+  - Strong positive correlation (0.999)  
+  👉 Indicates efficient inventory flow and strong demand alignment  
+
+- **Profit Margin vs Sales Price**
+  - Negative correlation (-0.179)  
+  👉 Increasing selling price may reduce profit margins due to competitive pressure  
+
+- **Stock Turnover vs Profitability**
+  - Weak negative correlation (-0.038, -0.055)  
+  👉 Faster inventory movement does not always result in higher profit  
 
 
   
