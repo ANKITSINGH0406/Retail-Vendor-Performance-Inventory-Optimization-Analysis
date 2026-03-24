@@ -104,6 +104,7 @@ Need better demand forecasting and inventory planning
 👉 Business Impact:  
 Improved reliability and focus on meaningful analysis  
 
+
 ![Correlation](assets/correlation_heatmap.png)
 ### 📊 6. Correlation Insights
 
@@ -123,5 +124,42 @@ Improved reliability and focus on meaningful analysis
   - Weak negative correlation (-0.038, -0.055)  
   👉 Faster inventory movement does not always result in higher profit  
 
+## 🎯 Research Question 1: Brands for Promotional or Pricing Adjustments
+
+### 📊 Brands with Low Sales but High Profit Margins
+
+![Brands Table](assets/brands_low_sales_high_profit.png)
+
+- Identified brands that have **high profit margins but low sales volume**  
+- These products are profitable but not selling enough  
+
+👉 Business Insight:  
+These brands have strong profit potential but lack visibility or demand  
+
+---
+
+### 📈 Visual Analysis
+
+![Scatter Plot](assets/brands_scatter_plot.png)
+
+- Highlighted region shows products with:
+  - High Profit Margin  
+  - Low Sales  
+
+👉 Business Insight:  
+These products are ideal candidates for:
+- Promotions  
+- Marketing campaigns  
+- Pricing strategy adjustments  
+
+---
+
+### 💼 Recommendation
+
+- Increase marketing efforts for these brands  
+- Offer targeted discounts or bundles  
+- Improve product visibility  
+
+> This can significantly increase revenue without sacrificing profitability
 
   
