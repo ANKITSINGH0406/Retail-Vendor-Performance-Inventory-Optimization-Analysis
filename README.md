@@ -162,4 +162,34 @@ These products are ideal candidates for:
 
 > This can significantly increase revenue without sacrificing profitability
 
-  
+## 📊 Vendor Contribution Analysis (Pareto Analysis)
+![Pareto Chart](assets/vendor_pareto_chart.png)
+
+### 🔍 Key Observations
+
+- A small number of vendors contribute a **large percentage of total purchases**  
+- **DIAGEO NORTH AMERICA INC** alone contributes ~16%  
+- Top 3–5 vendors contribute a **significant share of total procurement value**  
+
+👉 This follows the **80/20 Pareto Principle** (few vendors drive most business)
+
+---
+
+### 💡 Business Insights
+
+- High dependency on a few vendors increases **business risk**  
+- Any disruption from top vendors can heavily impact operations  
+- Indicates **supplier concentration**
+
+---
+
+### 💼 Recommendations
+
+- Diversify vendor base to reduce dependency risk  
+- Strengthen relationships with top-performing vendors  
+- Negotiate better pricing with high-contribution vendors  
+- Identify and promote mid-level vendors to balance supply  
+
+> Optimizing vendor distribution can improve cost efficiency and reduce operational risk
+
+
