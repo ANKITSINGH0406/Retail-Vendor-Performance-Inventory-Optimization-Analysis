@@ -192,4 +192,55 @@ These products are ideal candidates for:
 
 > Optimizing vendor distribution can improve cost efficiency and reduce operational risk
 
+## 📊 Vendor Contribution Analysis
+
+![Vendor Contribution](assets/vendor_contribution_donut.png)
+
+### 🔍 Key Observations
+
+- Top 10 vendors contribute **~65.7% of total purchases**  
+- Remaining vendors contribute only **~34.3%**  
+- **DIAGEO NORTH AMERICA INC** alone contributes ~16%  
+
+👉 Business Insight:  
+There is high dependency on a limited number of vendors  
+
+---
+
+### 💼 Recommendations
+
+- Diversify vendor base to reduce dependency risk  
+- Strengthen relationships with top vendors  
+- Negotiate better pricing with high-contribution vendors
+
+  ## 📦 Impact of Bulk Purchasing on Cost Savings
+
+![Order Size Table](assets/order_size_table.png)
+
+### 🔍 Key Observations
+
+- Vendors buying in **large quantities** get the lowest unit price (~$10.78 per unit)  
+- Medium orders cost ~$15.48, while small orders cost ~$39.05  
+- There is a **~72% reduction in unit cost** from small to large orders  
+
+👉 Business Insight:  
+Bulk purchasing significantly reduces cost per unit  
+
+---
+
+### 💡 Key Insights
+
+- Vendors buying in bulk achieve **higher profit margins** if inventory is managed efficiently  
+- Large order sizes benefit from economies of scale  
+- Bulk pricing strategies encourage vendors to purchase in higher volumes  
+
+---
+
+### 💼 Recommendations
+
+- Encourage bulk purchasing through pricing incentives  
+- Optimize inventory management to avoid overstock risks  
+- Use bulk purchasing strategically for high-demand products  
+
+> Bulk purchasing improves cost efficiency while supporting higher overall sales
 
