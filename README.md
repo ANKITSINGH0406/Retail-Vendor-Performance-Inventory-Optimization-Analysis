@@ -244,3 +244,83 @@ Bulk purchasing significantly reduces cost per unit
 
 > Bulk purchasing improves cost efficiency while supporting higher overall sales
 
+## 📦 Low Inventory Turnover Analysis
+
+![Low Inventory Vendors](assets/low_inventory_vendors.png)
+
+### 🔍 Key Observations
+
+- Total unsold inventory capital: **$2.71M**  
+- Several vendors show **low stock turnover (<1)**  
+- Indicates products are not selling efficiently  
+
+👉 Business Insight:  
+Slow-moving inventory increases storage costs and reduces cash flow  
+
+---
+
+### 💼 Recommendations
+
+- Reduce purchase quantities for slow-moving products  
+- Launch clearance sales or discounts  
+- Improve demand forecasting  
+
+> Optimizing inventory turnover can significantly improve cash flow and efficiency
+
+## 📊 Profit Margin Comparison
+
+![Confidence Interval](assets/confidence_interval_plot.png)
+
+### 🔍 Key Observations
+
+- Top vendors' average margin: **~31.17%**  
+- Low-performing vendors' average margin: **~41.55%**  
+- Low-performing vendors have **higher margins but lower sales volume**  
+
+👉 Business Insight:  
+High margins alone do not guarantee success — sales volume is critical  
+
+---
+
+### 💼 Recommendations
+
+- **Top Vendors**:
+  - Optimize pricing and reduce operational costs  
+  - Use bundle offers to increase profitability  
+
+- **Low-Performing Vendors**:
+  - Improve marketing and distribution  
+  - Adjust pricing strategies to increase sales volume  
+
+## 📊 Statistical Validation
+
+### Hypothesis Testing
+
+- **H₀ (Null Hypothesis):** No significant difference in profit margins  
+- **H₁ (Alternative Hypothesis):** Significant difference exists  
+
+### ✅ Result
+
+- Null hypothesis is **rejected**  
+- Confirms that top and low-performing vendors operate differently  
+
+👉 Business Insight:  
+Different strategies are required for different vendor groups  
+
+## 🎯 Final Recommendations
+
+- Re-evaluate pricing for low-sales, high-margin products  
+- Diversify vendor partnerships to reduce dependency risk  
+- Leverage bulk purchasing to reduce costs  
+- Optimize slow-moving inventory through better planning and promotions  
+- Enhance marketing and distribution for low-performing vendors  
+
+> These strategies can improve profitability, reduce risk, and enhance operational efficiency
+
+## 🛠️ Tech Stack
+- Python (Pandas)
+- SQL
+- Power BI
+
+## 📦 Dataset
+Google Drive Link:https://drive.google.com/drive/folders/185Q_I95ITH4XMQGNt337krsTgeyTnBpz?usp=drive_link
